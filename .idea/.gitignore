@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../:\xampp\htdocs\sports_engine_vue\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based https Client requests
+/httpsRequests/
